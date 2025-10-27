@@ -1,0 +1,1 @@
+export type ActiveView = 'wallet' | 'defi' | 'games' | 'profile';
